@@ -9,11 +9,6 @@
 - [Mongoose](https://mongoosejs.com/)
 - [Redux](https://redux.js.org/)
 
-## Getting Started
-
-```
-git clone https://github.com/mvximenko/social-network.git
-```
 
 ### Add a default.json file in config folder with the following
 
@@ -44,6 +39,4 @@ npm install
 npm run dev
 ```
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
